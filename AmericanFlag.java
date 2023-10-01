@@ -1,3 +1,5 @@
+/** Java program to print the American Flag */
+
 public class AmericanFlag {
 	public static void main(String[] args) {
 				String line1 = "* * * * * * ==================================\n * * * * *  ==================================";
