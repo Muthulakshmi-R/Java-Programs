@@ -25,7 +25,7 @@ public class DecimalToBinary {
         			} catch (IOException e) {
             				System.err.println("An error occurred while reading input: " + e.getMessage());
         			} catch (NumberFormatException e) {
-            				System.err.println("Invalid input. Please enter valid numbers for width and height.");
+            				System.err.println("Invalid input. Please enter a valid number.");
         			}
 	}
 }
